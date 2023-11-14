@@ -1,6 +1,6 @@
 ## 🙍 About Me
 
-- 🔭 I’m currently working on [https://willuseai.com](https://slash-landing.riddhesh.dev/)
+- 🔭 I’m currently working on [Slash](https://slash-landing.riddhesh.dev/)
 - 🌱 I’m currently learning Next.js
 - 💬 Ask me about MERN stack development
 - 📫 How to reach me: [@Riddhesh24](https://twitter.com/Riddhesh24)
