@@ -1,4 +1,4 @@
 ## 🙍 About Me
 
-- 🔭 I’m currently working on [Friday UI](https://fridayui.com/)
+- 🔭 I’m currently working on [PlugAI](https://plugai.io/)
 - 📫 How to reach me: [@Riddhesh24](https://twitter.com/Riddhesh24)
